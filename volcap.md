@@ -28,6 +28,8 @@
     - IMU Data: Monitor the accelerometer and gyroscope for rotational movement.
     - Microphones Data: Observe the sound representation. 
  10. Now you are done with Azure Kinect Viewer
+**Next step**
+[Go to Depthkit](depthkit.md)
  
  **DepthKit**
 1. Next You will need to launch DepthKit (image)
