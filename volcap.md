@@ -16,17 +16,23 @@
 2. Launch the Azure Kinect Viewer
 5. Click on "Open Device" in the top left corner of the window.
       <p align="center">
-     <img src="images/AZV/open%20Device.PNG" width="300" height="350" alt="Open Device">
+     <img src="images/AZV/open%20Device.PNG" width="300" height="300" alt="Open Device">
    </p>
 7. Select "Start" from the dropdown menu.
 8. The device should start streaming data
 9. Verify that the tool visualizes each sensor stream:
     - Infrared camera: Visualize Active Brightness, a grayscale IR brightness image.
-      <p align="center"> <image src="images/AZV/inf cam.PNG" width="300 height="350"> </p>
+      <p align="center">
+     <img src="images/AZV/inf%20cam.PNG" width="300" height="300" alt="Open Device">
+   </p>
     - Depth camera: View the colorized depth data representation.
-      <p align="center"> <image src="images/AZV/depth cam.PNG" width="300 height="350"> </p>
+      <p align="center">
+     <img src="images/AZV/depth%20cam.PNG" width="300" height="300" alt="Open Device">
+   </p>
     - Color camera: You can control RGB camera settings from the configuration window during the streaming.
-      <p align="center"> <image src="images/AZV/color cam control.PNG" width="300 height="350"> </p>
+      <p align="center">
+     <img src="images/AZV/color%20cam%20control.PNG" width="300" height="300" alt="Open Device">
+   </p>
     - IMU Data: Monitor the accelerometer and gyroscope for rotational movement.
     - Microphones Data: Observe the sound representation. 
  10. Now you are done with Azure Kinect Viewer
