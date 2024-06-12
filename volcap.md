@@ -22,13 +22,14 @@
 8. The device should start streaming data
 9. Verify that the tool visualizes each sensor stream:
     
-    - Infrared camera: Visualize Active Brightness, a grayscale IR brightness image.
-      <p align="center">
-     <img src="images/AZV/inf%20cam.PNG" width="350" height="300" alt="Open Device">
-   </p>
+
     - Depth camera: View the colorized depth data representation.
       <p align="center">
      <img src="images/AZV/depth%20cam.PNG" width="350" height="300" alt="Open Device">
+   </p>
+       - Infrared camera: Visualize Active Brightness, a grayscale IR brightness image.
+      <p align="center">
+     <img src="images/AZV/inf%20cam.PNG" width="350" height="300" alt="Open Device">
    </p>
     - Color camera: You can control RGB camera settings from the configuration window during the streaming.
       <p align="center">
