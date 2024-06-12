@@ -21,9 +21,11 @@
 8. The device should start streaming data
 9. Verify that the tool visualizes each sensor stream:
     - Infrared camera: Visualize Active Brightness, a grayscale IR brightness image.
-      <p align="center"> <image src="images/AZV/inf cam.PNG" width="70 height="80"> </p>
+      <p align="center"> <image src="images/AZV/inf cam.PNG" width="300 height="350"> </p>
     - Depth camera: View the colorized depth data representation.
+      <p align="center"> <image src="images/AZV/depth cam.PNG" width="300 height="350"> </p>
     - Color camera: You can control RGB camera settings from the configuration window during the streaming.
+      <p align="center"> <image src="images/AZV/color cam control.PNG" width="300 height="350"> </p>
     - IMU Data: Monitor the accelerometer and gyroscope for rotational movement.
     - Microphones Data: Observe the sound representation. 
  10. Now you are done with Azure Kinect Viewer
