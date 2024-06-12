@@ -31,7 +31,7 @@
    </p>
     - Color camera: You can control RGB camera settings from the configuration window during the streaming.
       <p align="center">
-     <img src="images/AZV/color%20cam%20control.PNG" width="450" height="300" alt="Open Device">
+     <img src="images/AZV/color%20cam%20control.PNG" width="350" height="300" alt="Open Device">
    </p>
     - IMU Data: Monitor the accelerometer and gyroscope for rotational movement.
     - Microphones Data: Observe the sound representation. 
