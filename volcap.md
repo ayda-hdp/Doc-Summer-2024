@@ -16,15 +16,16 @@
 2. Launch the Azure Kinect Viewer
       <p align="center"> <image src="images/AZV/AKV logo.PNG" width="70 height="80"> </p>
 5. Click on "Open Device" in the top left corner of the window.
-6. Select "Start" from the dropdown menu.
-7. The device should start streaming data
-8. Verify that the tool visualizes each sensor stream:
+      <p align="center"> <image src="images/AZV/open Device.PNG" width="70 height="80"> </p>
+7. Select "Start" from the dropdown menu.
+8. The device should start streaming data
+9. Verify that the tool visualizes each sensor stream:
     - Infrared camera: Visualize Active Brightness, a grayscale IR brightness image.
     - Depth camera: View the colorized depth data representation.
     - Color camera: You can control RGB camera settings from the configuration window during the streaming.
     - IMU Data: Monitor the accelerometer and gyroscope for rotational movement.
     - Microphones Data: Observe the sound representation. 
- 9. Now you are done with Azure Kinect Viewer
+ 10. Now you are done with Azure Kinect Viewer
  
  **DepthKit**
 1. Next You will need to launch DepthKit (image)
