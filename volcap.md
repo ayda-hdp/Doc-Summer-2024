@@ -13,20 +13,17 @@
   
   **Azure Kinect Viewer**
 1. To confirm that the device is streaming data, you should launch the Azure Kinect Viewer and follow these steps:
-    - Launch the Azure Kinect Viewer
-    - Click on "Open Device" in the top left corner of the window.
-    - Select "Start" from the dropdown menu.
-    - The device should start streaming data
-    - Verify that the tool visualizes each sensor stream:
-    -  Infrared camera: This is called Active Brightness and it is a grayscale image showing IR brightness.
-		(image)
-	Depth camera: This is called Depth, which has a colorized representation of the depth data.
-(image)
-Color camera: You can control RGB camera settings from the configuration window during the streaming.
-			 - (2 images)
-			 - IMU Data
-			 - Microphones Data
- 4. Now you are done with Azure Kinect Viewer
+2. Launch the Azure Kinect Viewer
+3. Click on "Open Device" in the top left corner of the window.
+4. Select "Start" from the dropdown menu.
+5. The device should start streaming data
+6. Verify that the tool visualizes each sensor stream:
+    - Infrared camera: This is called Active Brightness and it is a grayscale image showing IR brightness.
+    - Depth camera: This is called Depth, which has a colorized representation of the depth data.
+    - Color camera: You can control RGB camera settings from the configuration window during the streaming.
+    - IMU Data
+    - Microphones Data 
+ 7. Now you are done with Azure Kinect Viewer
  
  **DepthKit**
 1. Next You will need to launch DepthKit (image)
