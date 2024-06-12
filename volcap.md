@@ -16,6 +16,7 @@
 2. Launch the Azure Kinect Viewer
 5. Click on "Open Device" in the top left corner of the window.
       <p align="center"> <image src="open Device.PNG" width="300 height="350"> </p>
+      ![image](open Device.PNG)
 7. Select "Start" from the dropdown menu.
 8. The device should start streaming data
 9. Verify that the tool visualizes each sensor stream:
