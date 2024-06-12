@@ -67,6 +67,7 @@
 >
 >export directory: /c/Users/nehasurana/Desktop/final_folder_directory]
 3. Next step: [Go to Adobe Premiere](adobe.md)
+
 **Adobe Premiere**
 1. Open Adobe Premiere to synchronize your audio and video files. (image)
 	>For more information refer to this link: [[AdobePremiereDemo.mp4](https://drive.google.com/file/d/1SWDYjDCX9tPOOgktKO-BIUdQUT021DJS/view?usp=share_link) or [Embedding audio in Depthkit assets](https://docs.depthkit.tv/docs/embedding-audio)]
