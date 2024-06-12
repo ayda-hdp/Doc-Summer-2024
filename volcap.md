@@ -13,7 +13,7 @@
   
   **Azure Kinect Viewer**
 1. To confirm that the device is streaming data, you should launch the Azure Kinect Viewer and follow these steps:
-    -Launch the Azure Kinect Viewer 
+    2. Launch the Azure Kinect Viewer 
 		-   Click on "Open Device" in the top left corner of the window.
 		-   Select "Start" from the dropdown menu.
 		-   The device should start streaming data
@@ -26,6 +26,7 @@ Color camera: You can control RGB camera settings from the configuration window 
 			 - (2 images)
 			 - IMU Data
 			 - Microphones Data
+    - Launch the Azure Kinect Viewer
  4. Now you are done with Azure Kinect Viewer
  
  **DepthKit**
