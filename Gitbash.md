@@ -16,3 +16,4 @@
 >[image sequence folder: /c/Users/nehasurana/Desktop/image_sequence_folder ]
 >
 >export directory: /c/Users/nehasurana/Desktop/final_folder_directory]
+3. Next step: [Go to Adobe Premiere](adobe.md)
