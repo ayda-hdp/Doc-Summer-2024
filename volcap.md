@@ -16,7 +16,7 @@
 2. Launch the Azure Kinect Viewer
 5. Click on "Open Device" in the top left corner of the window.
       <p align="center">
-     <img src="images/AZV/open%20Device.PNG" width="300" height="300" alt="Open Device">
+     <img src="images/AZV/open%20Device.PNG" width="350" height="300" alt="Open Device">
    </p>
 7. Select "Start" from the dropdown menu.
 8. The device should start streaming data
