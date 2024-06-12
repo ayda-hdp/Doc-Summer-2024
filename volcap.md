@@ -29,8 +29,8 @@ Color camera: You can control RGB camera settings from the configuration window 
  4. Now you are done with Azure Kinect Viewer
  
  **DepthKit**
- 5. Next You will need to launch DepthKit (image)
- 6. To use the existing calibration, double-click on the project folder named "Volcap_4020". (image)
+1. Next You will need to launch DepthKit (image)
+2. To use the existing calibration, double-click on the project folder named "Volcap_4020". (image)
  7. Place your subject at the center marking of the room. 
 	>(Please ensure that the subject avoids wearing black/ white/ glasses/ ripped clothes for the best texture output.)
 	> For optimal results, it's important to remain within the marked boundaries of the room throughout the entire recording session.
