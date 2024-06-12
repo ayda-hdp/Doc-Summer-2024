@@ -12,8 +12,8 @@
     - Reaper (Optional)
   
   **Azure Kinect Viewer**
-1. To confirm that the device is streaming data, you should launch the Azure Kinect Viewer and follow these steps: 
-		-  Launch the Azure Kinect Viewer 
+1. To confirm that the device is streaming data, you should launch the Azure Kinect Viewer and follow these steps:
+2.     Launch the Azure Kinect Viewer 
 		-   Click on "Open Device" in the top left corner of the window.
 		-   Select "Start" from the dropdown menu.
 		-   The device should start streaming data
