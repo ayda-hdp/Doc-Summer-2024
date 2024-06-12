@@ -47,8 +47,8 @@
  17. To create an asset that can be quickly placed into  the  Unity project, you can export a Multiperspective CPP Video. To do this, click on "Multiperspective CPP Video" from the export drop-down menu. Then, go to the location where the files were saved and copy the generated files from Depthkit. ( For more information refer to this link : [Exporting](https://docs.depthkit.tv/docs/exporting)) (image)
 
 **Git Bash**
-3. For best results make sure that you Convert your Combined Per Pixel Asset export in 3x2 columns and rows.
- 20. Open Git Bash
+1. For best results make sure that you Convert your Combined Per Pixel Asset export in 3x2 columns and rows.
+2. Open Git Bash
 		- Enter ‘cd desktop’.
 		-   Type ‘python ./DepthkitCPPToRows.py’
 		-   Leave a space and drag and drop your metadata file.
