@@ -14,8 +14,7 @@
   **Azure Kinect Viewer**
 1. To confirm that the device is streaming data, follow these steps:
 2. Launch the Azure Kinect Viewer
-     - Infrared camera: Visualize Active Brightness, a grayscale IR brightness image.
-4. <p align="center"> <image src="images/AZV/AKV logo.PNG" width="70 height="80"> </p>
+     - <p align="center"> <image src="images/AZV/AKV logo.PNG" width="70 height="80"> </p>
 5. Click on "Open Device" in the top left corner of the window.
 6. Select "Start" from the dropdown menu.
 7. The device should start streaming data
