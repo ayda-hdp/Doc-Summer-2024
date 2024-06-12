@@ -6,10 +6,10 @@
  2. The Software you will need:
     - Azure Kinect Viewer
     - [DepthKit](Depthkit.md)
-    - Git Bash
+    - [Git Bash](Gitbash.md)
     - Unity
-    - Adobe Premiere
-    - Reaper (Optional)
+    - [Adobe Premiere](adobe.md)
+    - [Reaper (Optional)](reaper.md)
   
   **Azure Kinect Viewer**
 1. To confirm that the device is streaming data, follow these steps:
@@ -46,6 +46,7 @@
  15. Head to the recording library tab. (image)
  16. To refine the capture, go to the Refine panel and select Enable Refinement. From there, you can proceed directly to the exporting process. Perform this refinement process for every capture from each sensor perspective. (For more information refer: [Processing Studio captures](https://docs.depthkit.tv/docs/processing-studio-captures) and [Creating Refinement masks](https://docs.depthkit.tv/docs/creating-refinement-masks)) (image)
  17. To create an asset that can be quickly placed into  the  Unity project, you can export a Multiperspective CPP Video. To do this, click on "Multiperspective CPP Video" from the export drop-down menu. Then, go to the location where the files were saved and copy the generated files from Depthkit. ( For more information refer to this link : [Exporting](https://docs.depthkit.tv/docs/exporting)) (image)
+ 18. Next step: [Go to Git Bash](gitbash.md)
 
 **Git Bash**
 1. For best results make sure that you Convert your Combined Per Pixel Asset export in 3x2 columns and rows.
@@ -65,7 +66,7 @@
 >[image sequence folder: /c/Users/nehasurana/Desktop/image_sequence_folder ]
 >
 >export directory: /c/Users/nehasurana/Desktop/final_folder_directory]
-	
+3. Next step: [Go to Adobe Premiere](adobe.md)
 **Adobe Premiere**
 1. Open Adobe Premiere to synchronize your audio and video files. (image)
 	>For more information refer to this link: [[AdobePremiereDemo.mp4](https://drive.google.com/file/d/1SWDYjDCX9tPOOgktKO-BIUdQUT021DJS/view?usp=share_link) or [Embedding audio in Depthkit assets](https://docs.depthkit.tv/docs/embedding-audio)]
@@ -88,8 +89,7 @@
     
 
 	> ffmpeg -r 30 -f image2 -start_number 0 -i [ location of your first image sequence padded by “%06d”.png e.g: D:\Volcap_4030_Final\Exports\welcome3x2\TAKE_Welcome02_27_11_58_41_Export_04_03_13_20_49%06d.png] -c:v libx264 -x264-params mvrange=511 -c:a  aac -b:a 320k -shortest -vf scale='min(4096,iw)':'min(ih,4096)':force_divisible_by=2:out_color_matrix=bt709:out_range=full,setsar=1:1 -colorspace bt709 -color_primaries bt709 -color_trc bt709 -color_range pc -b:v 5M -pix_fmt yuv420p [ name of your output file].mp4
-
-	 
+5. Next step: [Go to Reaper5](reaper.md)	 
 
 
 
