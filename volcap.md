@@ -5,7 +5,7 @@
  1. Turn the PC in room 4020 on, and login using your PID. (the name in front of your VT email address)
  2. The Software you will need:
     - Azure Kinect Viewer
-    - DepthKit
+    - [DepthKit](Depthkit.md)
     - Git Bash
     - Unity
     - Adobe Premiere
