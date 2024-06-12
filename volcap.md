@@ -15,8 +15,7 @@
 1. To confirm that the device is streaming data, follow these steps:
 2. Launch the Azure Kinect Viewer
 3. <p align="center">
-<image src="Doc-Summer-2024/images/AZV/AKV logo.PNG"
-alt="Diagram">
+<image src="Doc-Summer-2024/images/AZV/AKV logo.PNG">
 </p>
 4. Click on "Open Device" in the top left corner of the window.
 5. Select "Start" from the dropdown menu.
