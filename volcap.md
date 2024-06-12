@@ -1,3 +1,4 @@
+
 ## **Volumetric Capture 4020 Documentation**
 
 **Steps to perform Volumetric Capture in 4020:**
@@ -11,19 +12,17 @@
     - Reaper (Optional)
   
   **Azure Kinect Viewer**
-1. To confirm that the device is streaming data, you should launch the Azure Kinect Viewer and follow these steps:
-	 a.  Launch the Azure Kinect Viewer 
+1. To confirm that the device is streaming data, you should launch the Azure Kinect Viewer and follow these steps: 
+		-  Launch the Azure Kinect Viewer 
+		-   Click on "Open Device" in the top left corner of the window.
+		-   Select "Start" from the dropdown menu.
+		-   The device should start streaming data
+		-   Verify that the tool visualizes each sensor stream:
+		-    Infrared camera: This is called Active Brightness and it is a grayscale image showing IR brightness.
 		(image)
-	 b. Click on "Open Device" in the top left corner of the window.
-	   (image)
-	 c. Select "Start" from the dropdown menu.
-	 d. The device should start streaming data
-	 - Verify that the tool visualizes each sensor stream:
-			 - Infrared camera: This is called Active Brightness and it is a grayscale image showing IR brightness.
-			 - (image)
-			 - Depth camera: This is called Depth, which has a colorized representation of the depth data.
-			 - (image)
-			 - Color camera: You can control RGB camera settings from the configuration window during the streaming.
+	Depth camera: This is called Depth, which has a colorized representation of the depth data.
+(image)
+Color camera: You can control RGB camera settings from the configuration window during the streaming.
 			 - (2 images)
 			 - IMU Data
 			 - Microphones Data
@@ -47,7 +46,7 @@
  17. To create an asset that can be quickly placed into  the  Unity project, you can export a Multiperspective CPP Video. To do this, click on "Multiperspective CPP Video" from the export drop-down menu. Then, go to the location where the files were saved and copy the generated files from Depthkit. ( For more information refer to this link : [Exporting](https://docs.depthkit.tv/docs/exporting)) (image)
 
 **Git Bash**
-1. For best results make sure that you Convert your Combined Per Pixel Asset export in 3x2 columns and rows.
+3. For best results make sure that you Convert your Combined Per Pixel Asset export in 3x2 columns and rows.
  20. Open Git Bash
 		- Enter ‘cd desktop’.
 		-   Type ‘python ./DepthkitCPPToRows.py’
