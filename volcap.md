@@ -21,6 +21,7 @@
 7. Select "Start" from the dropdown menu.
 8. The device should start streaming data
 9. Verify that the tool visualizes each sensor stream:
+    
     - Infrared camera: Visualize Active Brightness, a grayscale IR brightness image.
       <p align="center">
      <img src="images/AZV/inf%20cam.PNG" width="350" height="300" alt="Open Device">
@@ -35,5 +36,5 @@
    </p>
     - IMU Data: Monitor the accelerometer and gyroscope for rotational movement.
     - Microphones Data: Observe the sound representation. 
- 10. Now you are done with Azure Kinect Viewer
- 11. Next step: [Go to Depthkit](Depthkit.md)
+ 11. Now you are done with Azure Kinect Viewer
+ 12. Next step: [Go to Depthkit](Depthkit.md)
