@@ -58,9 +58,9 @@
 	
 **Demo Command :** 
 >python ./DepthkitCPPToRows.py
-
+>
 >[metadata file: /c/Users/nehasurana/Desktop/metadata.txt ]
-
+>
 >[image sequence folder: /c/Users/nehasurana/Desktop/image_sequence_folder ]
 >
 >export directory: /c/Users/nehasurana/Desktop/final_folder_directory]
