@@ -12,17 +12,17 @@
     - Reaper (Optional)
   
   **Azure Kinect Viewer**
-1. To confirm that the device is streaming data, you should launch the Azure Kinect Viewer and follow these steps:
+1. To confirm that the device is streaming data, follow these steps:
 2. Launch the Azure Kinect Viewer
 3. Click on "Open Device" in the top left corner of the window.
 4. Select "Start" from the dropdown menu.
 5. The device should start streaming data
 6. Verify that the tool visualizes each sensor stream:
-    - Infrared camera: This is called Active Brightness and it is a grayscale image showing IR brightness.
-    - Depth camera: This is called Depth, which has a colorized representation of the depth data.
+    - Infrared camera: Visualize Active Brightness, a grayscale IR brightness image.
+    - Depth camera: View the colorized depth data representation.
     - Color camera: You can control RGB camera settings from the configuration window during the streaming.
-    - IMU Data
-    - Microphones Data 
+    - IMU Data: Monitor the accelerometer and gyroscope for rotational movement.
+    - Microphones Data: Observe the sound representation. 
  7. Now you are done with Azure Kinect Viewer
  
  **DepthKit**
