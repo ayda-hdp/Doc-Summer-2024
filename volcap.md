@@ -17,7 +17,7 @@
 <p align="center">
 <image src="images/AZV/AKV logo.PNG" width="70 height="80">
 </p>
-4. Click on "Open Device" in the top left corner of the window.
+3. Click on "Open Device" in the top left corner of the window.
 5. Select "Start" from the dropdown menu.
 6. The device should start streaming data
 7. Verify that the tool visualizes each sensor stream:
