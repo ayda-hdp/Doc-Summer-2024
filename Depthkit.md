@@ -4,7 +4,7 @@
  7. Place your subject at the center marking of the room. 
 	>(Please ensure that the subject avoids wearing black/ white/ glasses/ ripped clothes for the best texture output.)
 	> For optimal results, it's important to remain within the marked boundaries of the room throughout the entire recording session.
- 8. [If you want to record audio, please click here.]()
+ 8. [If you want to record audio, please click here.](reaper.md)
  9. When you are confident with your setup, click on the "Start Streaming" button under the Controls section of Depthkit. (image)
  10. You have the option to name your take under Recording Prefix.
  11. Remember to use a visual and audible cue at the beginning of each take, such as clapping your hands, to help with the syncing process. (image)
