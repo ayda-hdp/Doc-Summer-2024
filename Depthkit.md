@@ -23,7 +23,7 @@
    </p>
 12. To refine the capture, go to the Refine panel and select Enable Refinement. From there, you can proceed directly to the exporting process. Perform this refinement process for every capture from each sensor perspective.
     
-    	>(For more information refer: [Processing Studio captures](https://docs.depthkit.tv/docs/processing-studio-captures) and
+    	(For more information refer: [Processing Studio captures](https://docs.depthkit.tv/docs/processing-studio-captures) and
      [Creating Refinement masks](https://docs.depthkit.tv/docs/creating-refinement-masks))
      
       <p align="center">
