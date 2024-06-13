@@ -13,7 +13,7 @@
    </p>
 8. In DepthKit, hit the Record button, a Diagnostics panel will be displayed.
        <p align="center">
-     <img src="images/DK/main.PNG" width="900" height="600" alt="Open Device">
+     <img src="images/DK/main.PNG" width="1000" height="600" alt="Open Device">
    </p>
 9. After finishing your recording session, click on "End Recording" button.
 10. Click on the "Stop Streaming" button when you have finished recording. (You can refer to this [link](https://docs.depthkit.tv/docs/studio-recording) for more information)
