@@ -9,22 +9,22 @@
 6. You have the option to name your take under Recording Prefix.
 7. Remember to use a visual and audible cue at the beginning of each take, such as clapping your hands, to help with the syncing process.
       <p align="center">
-     <img src="images/DK/clap.png" width="350" height="300" alt="Open Device">
+     <img src="images/DK/clap.png" width="450" height="300" alt="Open Device">
    </p>
 8. In DepthKit, hit the Record button, a Diagnostics panel will be displayed.
        <p align="center">
-     <img src="images/DK/main.PNG" width="350" height="300" alt="Open Device">
+     <img src="images/DK/main.PNG" width="450" height="300" alt="Open Device">
    </p>
 9. After finishing your recording session, click on "End Recording" button.
 10. Click on the "Stop Streaming" button when you have finished recording. (You can refer to this [link](https://docs.depthkit.tv/docs/studio-recording) for more information)
 11. Head to the recording library tab.
       <p align="center">
-     <img src="images/DK/record.png" width="350" height="300" alt="Open Device">
+     <img src="images/DK/record.png" width="450" height="300" alt="Open Device">
    </p>
 12. To refine the capture, go to the Refine panel and select Enable Refinement. From there, you can proceed directly to the exporting process. Perform this refinement process for every capture from each sensor perspective
-> (For more information refer: [Processing Studio captures](https://docs.depthkit.tv/docs/processing-studio-captures) and [Creating Refinement masks](https://docs.depthkit.tv/docs/creating-refinement-masks))
+	>(For more information refer: [Processing Studio captures](https://docs.depthkit.tv/docs/processing-studio-captures) and [Creating Refinement masks](https://docs.depthkit.tv/docs/creating-refinement-masks))
       <p align="center">
-     <img src="images/DK/refine.png" width="350" height="300" alt="Open Device">
+     <img src="images/DK/refine.png" width="450" height="300" alt="Open Device">
    </p>
 13. To create an asset that can be quickly placed into  the  Unity project, you can export a Multiperspective CPP Video. To do this, click on "Multiperspective CPP Video" from the export drop-down menu. Then, go to the location where the files were saved and copy the generated files from Depthkit. ( For more information refer to this link : [Exporting](https://docs.depthkit.tv/docs/exporting))
 14. Next step: [Go to Git Bash](Gitbash.md)
