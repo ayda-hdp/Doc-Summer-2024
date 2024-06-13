@@ -9,7 +9,7 @@
 6. You have the option to name your take under Recording Prefix.
 7. Remember to use a visual and audible cue at the beginning of each take, such as clapping your hands, to help with the syncing process.
       <p align="center">
-     <img src="images/DK/clap.png" width="450" height="300" alt="Open Device">
+     <img src="images/DK/clap.png" width="750" height="600" alt="Open Device">
    </p>
 8. In DepthKit, hit the Record button, a Diagnostics panel will be displayed.
        <p align="center">
