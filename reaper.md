@@ -13,7 +13,7 @@
    </p>
 9. Set the input for the track to match the input of the microphone. Right click on the Record Arm button of the track.
        <p align="center">
-     <img src="images/reaper/input.png" width="350" height="400" alt="Open Device">
+     <img src="images/reaper/input.png" width="250" height="400" alt="Open Device">
    </p>
 11. Select the channel input, repeat the previous steps for each microphone being recorded.
        <p align="center">
