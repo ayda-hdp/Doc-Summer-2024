@@ -20,4 +20,3 @@
     
 
 	> ffmpeg -r 30 -f image2 -start_number 0 -i [ location of your first image sequence padded by “%06d”.png e.g: D:\Volcap_4030_Final\Exports\welcome3x2\TAKE_Welcome02_27_11_58_41_Export_04_03_13_20_49%06d.png] -c:v libx264 -x264-params mvrange=511 -c:a  aac -b:a 320k -shortest -vf scale='min(4096,iw)':'min(ih,4096)':force_divisible_by=2:out_color_matrix=bt709:out_range=full,setsar=1:1 -colorspace bt709 -color_primaries bt709 -color_trc bt709 -color_range pc -b:v 5M -pix_fmt yuv420p [ name of your output file].mp4
-5. Next step: [Go to Reaper](reaper.md)
