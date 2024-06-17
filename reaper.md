@@ -5,7 +5,7 @@
 4. Connect the male XLR input to the interface.
 5. Create a new project tab.
        <p align="center">
-     <img src="images/reaper/project.png" width="300" height="600" alt="Open Device">
+     <img src="images/reaper/project.png" width="300" height="500" alt="Open Device">
    </p>
 7. Then create a new track in your Digital Audio Workstation by going to the Track menu option.
 8. Set the input for the track to match the input of the microphone. Right click on the Record Arm button of the track.
