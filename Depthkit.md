@@ -29,6 +29,8 @@
 
 For more information refer: [Processing Studio captures](https://docs.depthkit.tv/docs/processing-studio-captures)
 
-13. To create an asset that can be quickly placed into  the  Unity project, you can export a Multiperspective CPP Video. To do this, click on "Multiperspective CPP Video" from the export drop-down menu. Then, go to the location where the files were saved and copy the generated files from Depthkit. (For more information refer to this link : [Exporting](https://docs.depthkit.tv/docs/exporting))
+13. To create an asset that can be quickly placed into  the  Unity project, you can export a Multiperspective CPP Video. To do this, click on "Multiperspective CPP Video" from the export drop-down menu. Then, go to the location where the files were saved and copy the generated files from Depthkit.
 
-14. Next step: [Go to Git Bash](Gitbash.md)
+(For more information refer to this link : [Exporting](https://docs.depthkit.tv/docs/exporting))
+
+15. Next step: [Go to Git Bash](Gitbash.md)
