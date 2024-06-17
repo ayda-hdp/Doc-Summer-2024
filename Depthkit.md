@@ -17,7 +17,7 @@
    </p>
 9. After finishing your recording session, click on "End Recording" button.
 10. Click on the "Stop Streaming" button when you have finished recording. (You can refer to this [link](https://docs.depthkit.tv/docs/studio-recording) for more information)
-11. Head to the recording library tab.
+11. Head to the "Editor" tab.
       <p align="center">
      <img src="images/DK/library.PNG" width="450" height="200" alt="Open Device">
    </p>
