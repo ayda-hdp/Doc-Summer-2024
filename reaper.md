@@ -17,7 +17,7 @@
    </p>
 11. Select the channel input, repeat the previous steps for each microphone being recorded.
        <p align="center">
-     <img src="images/reaper/channel.png" width="300" height="450" alt="Open Device">
+     <img src="images/reaper/channel.png" width="400" height="450" alt="Open Device">
    </p>
 13. Turn on the transmitter and receiver for the lav microphone.
        <p align="center">
