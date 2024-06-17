@@ -23,11 +23,11 @@
    </p>
 12. To refine the capture, go to the Refine panel and select Enable Refinement. From there, you can proceed directly to the exporting process. Perform this refinement process for every capture from each sensor perspective.
     
-    	(For more information refer: [Processing Studio captures](https://docs.depthkit.tv/docs/processing-studio-captures) and
+     (For more information refer: [Processing Studio captures](https://docs.depthkit.tv/docs/processing-studio-captures) and
      [Creating Refinement masks](https://docs.depthkit.tv/docs/creating-refinement-masks))
      
 <p align="center">
-     <img src="images/DK/refine.png" width="450" height="300" alt="Open Device">
+     <img src="images/DK/refine.png" width="1000" height="600" alt="Open Device">
    </p>
 13. To create an asset that can be quickly placed into  the  Unity project, you can export a Multiperspective CPP Video. To do this, click on "Multiperspective CPP Video" from the export drop-down menu. Then, go to the location where the files were saved and copy the generated files from Depthkit. ( For more information refer to this link : [Exporting](https://docs.depthkit.tv/docs/exporting))
 
