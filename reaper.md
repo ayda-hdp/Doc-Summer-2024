@@ -9,7 +9,7 @@
    </p>
 7. Then create a new track in your Digital Audio Workstation by going to the Track menu option.
        <p align="center">
-     <img src="images/reaper/track.png" width="350" height="400" alt="Open Device">
+     <img src="images/reaper/track.png" width="350" height="450" alt="Open Device">
    </p>
 9. Set the input for the track to match the input of the microphone. Right click on the Record Arm button of the track.
        <p align="center">
