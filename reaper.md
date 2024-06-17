@@ -37,4 +37,4 @@
      <img src="images/reaper/export.png" width="300" height="500" alt="Open Device">
    </p>
 
-14. To continue working with Depthkit, [click here](Depthkit.md)
+14. To continue working with Depthkit: [click here](Depthkit.md)
