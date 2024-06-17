@@ -1,8 +1,6 @@
 **Reaper**
 1. Prepare your microphone setup for basic recording by following these steps:
 2. Launch Reaper
-3. Ensure that the audio interface is selected as both the input and output device. 
-4. Connect the male XLR input to the interface.
 5. Create a new project tab.
        <p align="center">
      <img src="images/reaper/project.png" width="300" height="500" alt="Open Device">
