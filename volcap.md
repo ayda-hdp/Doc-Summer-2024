@@ -2,7 +2,7 @@
 ## **Volumetric Capture 4020 Documentation**
 
 **Steps to perform Volumetric Capture in 4020:**
- 1. Turn the PC in room 4020 on, and login using your PID. (the name in front of your VT email address)
+ 1. Turn the PC labeled as "Scorpio" in room 4020 on, and login using your PID. (the name in front of your VT email address)
  2. The Software you will need:
     - Azure Kinect Viewer
     - [DepthKit](Depthkit.md)
@@ -27,8 +27,7 @@
    </p>
     - Depth camera: View the colorized depth data representation.
       <p align="center">
-     <img src="images/AZV/depth%20cam.PNG" width="450" height="300" alt="Open Device">
-   </p>
+     <img src="images/AZV/depth%20cam.PNG" width="450" height="300" alt="Open Device"></p>
     - Color camera: You can control RGB camera settings from the configuration window during the streaming.
       <p align="center">
      <img src="images/AZV/color%20cam%20control.PNG" width="350" height="300" alt="Open Device"></p>
