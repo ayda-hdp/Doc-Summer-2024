@@ -50,13 +50,12 @@ This guide will help you set up and record high-quality audio using the Rode Wir
 ## Setup the Rode Wireless GO II
 1. **Pair the Units**:
    - Turn on both units and pair them.
-2. **Connect to Computer**:
-   - Use the TRS to TRRS cable.
-   ![Connecting to Computer](images/connecting-computer.png)
+2. **Connect the receiver to Computer**:
+   - Use the USB-A to USB-C cable.
 
 ## Configure Audio Settings in Reaper
 1. **Open Reaper**:
-   - Launch Reaper on your computer.
+   - Launch Reaper on the computer.
 2. **Set Up Audio Device**:
    - Go to `Options > Preferences`.
    - Select `Audio > Device`.
@@ -71,20 +70,16 @@ This guide will help you set up and record high-quality audio using the Rode Wir
 
 ## Recording Audio with Reaper
 1. **Start Recording**:
+   - Making sure that the track record is armed.
    - Click the `Record` button to start recording.
    ![Reaper Recording](images/reaper-recording.png)
 2. **Stop Recording**:
    - Click the `Stop` button to stop recording and save the audio.
-   ![Reaper Stop Recording](images/reaper-stop-recording.png)
-3. **Save Your Project**:
-   - Save your project.
 
 ## Exporting Audio
-1. **Select the Audio to Export**:
-   - Select the portion of the audio to export.
-2. **Export as WAV or MP3**:
+1. **Export as WAV or MP3**:
    - Go to `File > Render`.
-   - Set the `Source` to `Master mix`.
+   - Name the recording.
    - Choose the desired `Output format`.
    - Click `Render 1 file`.
    ![Reaper Export](images/reaper-export.png)
