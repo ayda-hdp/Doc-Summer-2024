@@ -19,7 +19,7 @@
    </p>
 7. Use the microphones in the box labeled as VolCap Audio. (change the image)
        <p align="center">
-     <img src="images/reaper/lav.png" width="300" height="300" alt="Open Device">
+     <img src="images/reaper/rode.PNG" width="300" height="300" alt="Open Device">
    </p>
 8. Check the gain levels before starting the recording, making sure that the track record is armed.
 9. Press the ‘record arm/disarm button’ for recording and then press the record button when you are ready to begin.
