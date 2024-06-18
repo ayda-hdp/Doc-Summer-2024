@@ -48,7 +48,7 @@
 This guide will help you set up and record high-quality audio using the Rode Wireless GO II system with Reaper.
 
 ## Setup the Rode Wireless GO II
-1. **Setup**:
+1. **Pair the Units**:
    - Utilize the Rode Wireless GO II microphones stored in the box labeled "VolCap Audio."
 <p align="center">
      <img src="images/reaper/rode.PNG" width="500" height="300" alt="Open Device">
