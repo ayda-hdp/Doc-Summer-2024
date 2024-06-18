@@ -36,3 +36,63 @@
    </p>
 
 12. To continue working with Depthkit: [click here](Depthkit.md)
+
+
+
+
+
+
+# Recording Audio with Reaper
+
+## Introduction
+This guide will help you set up and record high-quality audio using the Rode Wireless GO II system with Reaper.
+
+## Setup the Rode Wireless GO II
+1. **Unbox and Charge**:
+   - Ensure both transmitter and receiver units are fully charged.
+   ![Charging Units](images/charging-units.png)
+2. **Pair the Units**:
+   - Turn on both units and pair them.
+   ![Pairing Units](images/pairing-units.png)
+3. **Connect to Computer**:
+   - Use the TRS to TRRS cable.
+   ![Connecting to Computer](images/connecting-computer.png)
+
+## Configure Audio Settings in Reaper
+1. **Open Reaper**:
+   - Launch Reaper on your computer.
+2. **Set Up Audio Device**:
+   - Go to `Options > Preferences`.
+   - Select `Audio > Device`.
+   - Set the `Audio system` to `DirectSound` (Windows) or `CoreAudio` (Mac).
+   - Select the Rode Wireless GO II as your `Input device`.
+   ![Reaper Audio Device](images/reaper-audio-device.png)
+3. **Create a New Track**:
+   - Insert a new track and enable recording.
+   ![Reaper New Track](images/reaper-new-track.png)
+
+## Recording Audio with Reaper
+1. **Start Recording**:
+   - Click the `Record` button to start recording.
+   ![Reaper Recording](images/reaper-recording.png)
+2. **Stop Recording**:
+   - Click the `Stop` button to stop recording and save the audio.
+   ![Reaper Stop Recording](images/reaper-stop-recording.png)
+3. **Save Your Project**:
+   - Save your project for organization.
+
+## Exporting Audio
+1. **Select the Audio to Export**:
+   - Select the portion of the audio to export.
+2. **Export as WAV or MP3**:
+   - Go to `File > Render`.
+   - Set the `Source` to `Master mix`.
+   - Choose the desired `Output format`.
+   - Click `Render 1 file`.
+   ![Reaper Export](images/reaper-export.png)
+
+
+### Useful Links
+- [Reaper User Guide](https://www.reaper.fm/userguide.php)
+- [Rode Wireless GO II User Guide](https://rode.com/en/user-guides/wirelessgoii)
+
