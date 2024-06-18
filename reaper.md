@@ -17,7 +17,7 @@
        <p align="center">
      <img src="images/reaper/channel.png" width="400" height="450" alt="Open Device">
    </p>
-7. Use the microphones in the box labeled as VolCap Audio. (change the image)
+7. Use the microphones in the box labeled as VolCap Audio.
        <p align="center">
      <img src="images/reaper/rode.PNG" width="500" height="300" alt="Open Device">
    </p>
