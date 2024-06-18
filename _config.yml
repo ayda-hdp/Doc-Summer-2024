@@ -1,4 +1,5 @@
-name: My Site
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-cayman
+title: My Project
+description: A description of my project.
+baseurl: "/Doc-Summer-2024" # the subpath of your site, e.g. /blog
+url: "https://ayda-hdp.github.io"
