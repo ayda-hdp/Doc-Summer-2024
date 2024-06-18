@@ -51,8 +51,8 @@ This guide will help you set up and record high-quality audio using the Rode Wir
 1. **Pair the Units**:
    - Utilize the Rode Wireless GO II microphones stored in the box labeled "VolCap Audio."
 <p align="center">
-     <img src="images/reaper/rode.PNG" width="500" height="300" alt="Open Device">
-   </p>
+     <img src="images/reaper/rode.PNG" width="500" height="300" alt="Open Device"></p>
+     
 2. **Pair the Units**:
    - Turn on both units and pair them.
 3. **Connect the receiver to Computer**:
