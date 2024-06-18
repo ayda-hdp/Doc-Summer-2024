@@ -1,7 +1,7 @@
  **DepthKit**
 1. Next You will need to launch DepthKit.
 2. To use the existing calibration, double-click on the project folder located: "D:\DepthKit" named "Volcap_4020".
-> If you encounter any issues with the camera calibration, please refer to the [Calibration](https://docs.depthkit.tv/docs/calibration) documentation  on recalibrating the cameras. If necessary, please create a new project for this purpose.
+       >If you encounter any issues with the camera calibration, please refer to the [Calibration](https://docs.depthkit.tv/docs/calibration) documentation  on recalibrating the cameras. If necessary, please create a new project for this purpose.
 4. Place your subject at the center marking of the room. 
 	>(Please ensure that the subject avoids wearing black/ white/ glasses/ ripped clothes for the best texture output.)
 	> For optimal results, it's important to remain within the marked boundaries of the room throughout the entire recording session.
