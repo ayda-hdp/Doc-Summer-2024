@@ -23,7 +23,7 @@
 12. You can drill into each sensor by clicking the arrow next to the clip's name in the Library.
       <p align="center">
      <img src="images/DK/sensor.png" width="450" height="200" alt="Open Device"></p>
-	>For more information refer: [Processing Studio captures](https://docs.depthkit.tv/docs/processing-studio-captures)
+	>(For more information refer: [Processing Studio captures](https://docs.depthkit.tv/docs/processing-studio-captures))
 13. To create an asset that can be quickly placed into  the  Unity project, you can export a Multiperspective CPP Video. To do this, click on "Multiperspective CPP Video" from the export drop-down menu. Then, go to the location where the files were saved and copy the generated files from Depthkit.
 	>(For more information refer to this link : [Exporting](https://docs.depthkit.tv/docs/exporting))
 14. Next step: [Go to Git Bash](Gitbash.md)
