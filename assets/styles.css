@@ -1,23 +1,49 @@
-/* Change background color */
 body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f0f0; /* Light gray background */
+  margin: 0;
+  padding: 0;
+}
+
+.site-header {
+  background-color: #8B0000; /* Dark red color */
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.site-title {
+  font-size: 2.5em;
+  margin: 0;
+}
+
+.site-description {
+  font-size: 1.2em;
+  margin: 0;
+}
+
+.site-content {
+  background-color: white;
+  padding: 20px;
+  margin: 20px auto;
+  width: 80%;
+  max-width: 800px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.site-footer {
+  text-align: center;
+  padding: 10px 0;
   background-color: #f0f0f0;
 }
 
-/* Change font */
-body {
-  font-family: 'Arial', sans-serif;
-}
-
-/* Customize link colors */
-a {
-  color: #007acc;
-}
-
-a:hover {
-  color: #005f99;
-}
-
-/* Customize header colors */
 h1, h2, h3, h4, h5, h6 {
-  color: #333333;
+  color: #8B0000; /* Dark red color for headers */
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
 }
