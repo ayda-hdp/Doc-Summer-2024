@@ -92,7 +92,7 @@ This guide will help you set up and record high-quality audio using the Rode Wir
    - Choose the desired `Output format`.
    - Click `Render 1 file`.
 <p align="center">
-     <img src="images/reaper/render.png" width="300" height="500" alt="Open Device"></p>
+     <img src="images/reaper/render.png" width="350" height="500" alt="Open Device"></p>
      
 
 
