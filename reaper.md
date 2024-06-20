@@ -72,7 +72,7 @@ This guide will help you set up and record high-quality audio using the Rode Wir
 3. **Create a New Track**:
    - Create a new track in your Digital Audio Workstation by going to the Track menu option.
        <p align="center">
-     <img src="images/reaper/track.png" width="300" height="450" alt="Open Device">
+     <img src="images/reaper/track-insert.png" width="300" height="450" alt="Open Device">
    </p>
 
 ## Recording Audio with Reaper
