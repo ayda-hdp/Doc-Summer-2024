@@ -80,7 +80,7 @@ This guide will help you set up and record high-quality audio using the Rode Wir
    - Making sure that the track record is armed.
    - Click the `Record` button to start recording.
 <p align="center">
-     <img src="images/reaper/recording.png" width="500" height="300" alt="Open Device"></p>
+     <img src="images/reaper/recording.png" width="300" height="300" alt="Open Device"></p>
      
 2. **Stop Recording**:
    - Click the `Stop` button to stop recording and save the audio.
@@ -92,7 +92,7 @@ This guide will help you set up and record high-quality audio using the Rode Wir
    - Choose the desired `Output format`.
    - Click `Render 1 file`.
 <p align="center">
-     <img src="images/reaper/render.png" width="500" height="300" alt="Open Device"></p>
+     <img src="images/reaper/render.png" width="300" height="300" alt="Open Device"></p>
      
 
 
