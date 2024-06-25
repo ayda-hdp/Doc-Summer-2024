@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: My Project
 description: A description of my project.
 baseurl: "/Doc-Summer-2024" # the subpath of your site, e.g. /blog
