@@ -4,14 +4,14 @@
 **Steps to perform Volumetric Capture in 4020:**
  1. Turn the PC labeled as "Scorpio" in room 4020 on, and login using your PID. (the name in front of your VT email address)
  2. The Software you will need:
-    - Azure Kinect Viewer
+    - Orbbec Viewer
     - [DepthKit](Depthkit.md)
     - [Git Bash](Gitbash.md)
     - Unity
     - [Adobe Premiere](adobe.md)
     - [Reaper (Optional)](reaper.md)
   
-  **Azure Kinect Viewer**
+  **Orbbec Viewer**
 1. To confirm that the device is streaming data, follow these steps:
 2. Launch the Azure Kinect Viewer
 5. Click on "Open Device" in the top left corner of the window.
