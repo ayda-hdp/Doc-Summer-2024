@@ -47,6 +47,6 @@ Or from the Camera button to the left.
 
 - Buttons for maximizing/minimizing, showing/hiding metadata, pausing/starting streams, capturing snapshots, adjusting preview size, and stopping streams.
 <p align="center">
-     <img src="images/OV/buttons.png" width="300" height="100" alt="Open Device"></p>
+     <img src="images/OV/buttons.png" width="300" height="30" alt="Open Device"></p>
  11. Now you are done with Azure Kinect Viewer
  12. Next step: [Go to Depthkit](Depthkit.md)
