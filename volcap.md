@@ -47,12 +47,15 @@
    
 2. *Device Details:*
    - Use the dropdown menu on the left side to access device information.
-      <p align="center">
-     <img src="images/AZV/color%20cam%20control.PNG" width="350" height="300" alt="Open Device"></p>
+<p align="center">
+     <img src="images/OV/orbbec.png" width="500" height="300" alt="Open Device"></p>
 *Camera Control:*
 You can access these options either from the tab in the top.
-
+<p align="center">
+     <img src="images/OV/tab.png" width="500" height="300" alt="Open Device"></p>
 Or from the Camera button to the left.
+<p align="center">
+     <img src="images/OV/camera.png" width="500" height="300" alt="Open Device"></p>
 1. *Depth Features:*
    - View the colorized depth data representation.
 
@@ -69,3 +72,5 @@ Or from the Camera button to the left.
 *Stream Preview Window Controls:*
 
 - Buttons for maximizing/minimizing, showing/hiding metadata, pausing/starting streams, capturing snapshots, adjusting preview size, and stopping streams.
+<p align="center">
+     <img src="images/OV/buttons.png" width="500" height="300" alt="Open Device"></p>
