@@ -13,7 +13,7 @@
   
   **Orbbec Viewer**
 1. To confirm that the device is streaming data, follow these steps:
-2. Launch the Azure Kinect Viewer
+2. Launch Orbbec Viewer
 5. Click on "Open Device" in the top left corner of the window.
       <p align="center">
      <img src="images/AZV/open%20Device.PNG" width="350" height="300" alt="Open Device">
@@ -35,3 +35,37 @@
     - Microphones Data: Observe the sound representation. 
  11. Now you are done with Azure Kinect Viewer
  12. Next step: [Go to Depthkit](Depthkit.md)
+
+
+
+### Orbbec Viewer Guide
+
+*Connecting and Viewing Device Information:*
+
+1. *Connection Status:* 
+   - Open the Orbbec Viewer software after confirming the Orbbec 3D camera is connected.
+   
+2. *Device Details:*
+   - Use the dropdown menu on the left side to access device information.
+
+*Camera Control:*
+
+1. *Device Control:*
+   - *Preset:* Select from predefined configurations (Default, High Accuracy, High Density, Medium Density, Hand, Custom).
+   - *Laser Control:* Toggle the laser (LDM/LRM) on/off or alternate modes (On-Off, Off-On).
+   - *Trigger Capture Config:* Set timed or manual captures, with intervals from 1 to 2000 ms.
+
+2. *Depth Features:*
+   - *Depth Unit:* Configure depth data units (0.001mm to 10mm).
+   - *HDR:* Enable Depth HDR for varied exposure times and gains. Post-process HDR using the "Advanced Control" menu.
+
+3. *IMU (Inertial Measurement Unit):*
+   - Correct IMU data and calibrate the gyroscope. Save IMU data to /installation path/output/IMU.
+
+*Save Image:*
+
+- Store depth, RGB, left IR, and right IR data via the screenshot button or the "Image Save" tab.
+
+*Stream Preview Window Controls:*
+
+- Buttons for maximizing/minimizing, showing/hiding metadata, pausing/starting streams, capturing snapshots, adjusting preview size, and stopping streams.
