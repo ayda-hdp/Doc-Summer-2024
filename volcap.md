@@ -1,16 +1,3 @@
-## *Volumetric Capture 4020 Documentation*
-
-*Steps to Perform Volumetric Capture in Room 4020:*
-
-1. Turn on the PC labeled "Scorpio" in room 4020 and log in using your PID (the name in front of your VT email address).
-2. The software you will need:
-    - Orbbec Viewer
-    - [DepthKit](Depthkit.md)
-    - [Git Bash](Gitbash.md)
-    - Unity
-    - [Adobe Premiere](adobe.md)
-    - [Reaper (Optional)](reaper.md)
-
 ### Orbbec Viewer Guide
 
 *Connecting and Viewing Device Information:*
