@@ -1,5 +1,3 @@
-theme: creative-theme-jekyll
-title: My Project
-description: A description of my project.
+theme: jekyll-theme-cayman
 baseurl: "/Doc-Summer-2024" # the subpath of your site, e.g. /blog
 url: "https://ayda-hdp.github.io"
