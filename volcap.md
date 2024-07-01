@@ -47,24 +47,24 @@
    
 2. *Device Details:*
    - Use the dropdown menu on the left side to access device information.
-
+      <p align="center">
+     <img src="images/AZV/color%20cam%20control.PNG" width="350" height="300" alt="Open Device"></p>
 *Camera Control:*
+You can access these options either from the tab in the top.
 
-1. *Device Control:*
-   - *Preset:* Select from predefined configurations (Default, High Accuracy, High Density, Medium Density, Hand, Custom).
-   - *Laser Control:* Toggle the laser (LDM/LRM) on/off or alternate modes (On-Off, Off-On).
-   - *Trigger Capture Config:* Set timed or manual captures, with intervals from 1 to 2000 ms.
+Or from the Camera button to the left.
+1. *Depth Features:*
+   - View the colorized depth data representation.
 
-2. *Depth Features:*
-   - *Depth Unit:* Configure depth data units (0.001mm to 10mm).
-   - *HDR:* Enable Depth HDR for varied exposure times and gains. Post-process HDR using the "Advanced Control" menu.
+2. *Color Features:*
+   - Contol the exposure, brightness, sharpness and other settings of the camera.
 
 3. *IMU (Inertial Measurement Unit):*
-   - Correct IMU data and calibrate the gyroscope. Save IMU data to /installation path/output/IMU.
+   - Correct IMU data and calibrate the gyroscope.
 
 *Save Image:*
 
-- Store depth, RGB, left IR, and right IR data via the screenshot button or the "Image Save" tab.
+- Store depth, RGB, IR data via the screenshot button or the "Image Save" tab.
 
 *Stream Preview Window Controls:*
 
