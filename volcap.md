@@ -26,7 +26,7 @@
 *Camera Control:*
 You can access these options either from the tab in the top.
 <p align="center">
-     <img src="images/OV/tab.png" width="400" height="50" alt="Open Device"></p>
+     <img src="images/OV/tab.png" width="350" height="50" alt="Open Device"></p>
 Or from the Camera button to the left.
 <p align="center">
      <img src="images/OV/camera.png" width="450" height="400" alt="Open Device"></p>
