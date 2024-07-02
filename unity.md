@@ -10,10 +10,10 @@
    - In Unity, navigate to Window > Package Manager.
    - Click the + icon and select Add package from disk....
    - Locate the Depth Kit Core package folder.
-   - Select package.json file and click Open.
+   - Select package.json file located in "D:\Depthkit_Studio_Expansion_Package_Phase8_030722\depthkit.core" and click Open.
 
 2. *Install Depth Kit VFX Package*:
-   - Repeat the previous step for the Depth Kit Core VFX package.
+   - Repeat the previous step for the Depth Kit Core VFX package located in "D:\Depthkit_Studio_Expansion_Package_Phase8_030722\depthkit.core.vfx".
 
 #### Step 3: Import Depth Kit Assets
 
