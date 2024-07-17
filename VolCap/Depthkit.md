@@ -1,3 +1,7 @@
+---
+layout: default
+title: Your Page Title
+---
 ## Introduction
 This guide will help you set up and record high-quality video using DepthKit.
 
