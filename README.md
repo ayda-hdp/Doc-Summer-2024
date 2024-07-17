@@ -1,3 +1,7 @@
+---
+layout: default
+title: Your Page Title
+---
 ## *Volumetric Capture 4020 Documentation*
 
 ### *Introduction*
